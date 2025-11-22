@@ -5,7 +5,7 @@ just a simple 2pchat that you could download on 2 pc's that i made you could tal
 
 HOW TO USE:
 
-1. download the app on one or 2 pc's.
+1. download the console on one or 2 pc's.
 
 
 2. if you want to use one pc then execute it 2 times and make one console be the server and the other be a client.
